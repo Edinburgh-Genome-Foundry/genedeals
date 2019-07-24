@@ -24,15 +24,15 @@ synthetic biology software suite for DNA design, manufacturing and validation.
 
 - **company**: The company making the offer (IDT, TWIST)
 
-- **min_sequence_size**: Minimum accepted sequence size in basepairs
+- **min_size**: Minimum accepted sequence size in basepairs
 
-- **max_sequence_size**: Maximum accepted sequence size in basepairs
+- **max_size**: Maximum accepted sequence size in basepairs
 
 - **clonal_or_fragment**: Whether the product will be clonal (an insert in a plasmid) or a linear DNA fragment.
 
-- **min_business_days**: Minimum number of business days that the manufacturer will need to complete an order. If there is no upper bound (max_business_days), it means that this number is indicative of the typical lead time.
+- **min_bs_days**: Minimum number of business days that the manufacturer will need to complete an order. If there is no upper bound (max_business_days), it means that this number is indicative of the typical lead time.
 
-- **max_business_days**: Upper bound on the number of business days that the manufacturer will need to complete an order.
+- **max_bs_days**: Upper bound on the number of business days that the manufacturer will need to complete an order.
 
 
 - **min_dna_amount_ug**: Minimum amount of DNA that the manufacturer can guarantee.

@@ -1,4 +1,4 @@
-offer_name,company,min_sequence_length,max_sequence_length,clonal_or_fragment,min_business_days,max_business_days,min_dna_amount_ug,fixed_cost_usd,min_bp_cost_usd,min_unit_price_usd,min_units_in_order,tube_or_plate,source_url
+offer_name,company,min_size,max_size,clonal_or_fragment,min_bs_days,max_bs_days,min_dna_amount_ug,fixed_cost_usd,min_bp_cost_usd,min_unit_price_usd,min_units_in_order,tube_or_plate,source_url
 biomatik_1500,Biomatik,0,1500,clonal,0,10,4,0,0.25,150,1,?,https://www.biomatik.com/services/gene-synthesis.html
 biomatik_3k,Biomatik,1500,3000,clonal,10,15,4,0,0.25,150,1,?,https://www.biomatik.com/services/gene-synthesis.html
 biomatik_5k,Biomatik,3000,5000,clonal,15,25,4,0,0.3,150,1,?,https://www.biomatik.com/services/gene-synthesis.html
